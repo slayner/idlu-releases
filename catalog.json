@@ -1,17 +1,4 @@
 {
-  "version": 1,
-  "games": [
-    {
-      "id": "leveling-idle",
-      "name": "Leveling Idle",
-      "url": "https://levelingidle2d.com.br/jogar",
-      "ecoSafe": true
-    },
-    {
-      "id": "poke-idle-world",
-      "name": "Poke Idle World",
-      "url": "https://poke.idleworld.online/play",
-      "ecoSafe": true
-    }
-  ]
+  "version": 2,
+  "games": []
 }
